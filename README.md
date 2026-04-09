@@ -2,49 +2,40 @@
 
 Welcome to my Cloud and DevOps engineering portfolio.
 
-This repository contains my real-world cloud infrastructure and automation projects.
+This portfolio highlights practical cloud, DevOps, and infrastructure automation projects built around real-world production scenarios.
 
-## Projects
+## Featured Projects
 
 ### AWS Production Environment
-Production-ready AWS infrastructure with monitoring and scaling.
+Production-style AWS environment with networking, compute, monitoring, and scaling concepts.
 
-Repository:
-https://github.com/mkparucj/aws-production-environment-showcase
-
----
+Repository: https://github.com/mkparucj/aws-production-environment-showcase
 
 ### CI/CD Pipeline
-Automated deployment pipeline using GitHub Actions.
+Automated deployment workflow using GitHub Actions and DevOps best practices.
 
-Repository:
-https://github.com/mkparucj/devops-ci-cd-showcase
-
----
+Repository: https://github.com/mkparucj/devops-ci-cd-showcase
 
 ### Infrastructure as Code
-AWS infrastructure deployment using CDK/Terraform.
+Cloud infrastructure deployment using AWS CDK or Terraform.
 
-Repository:
-https://github.com/mkparucj/infrastructure-as-code-showcase
+Repository: https://github.com/mkparucj/infrastructure-as-code-showcase
 
----
+## Core Skills
 
-## Skills
-
-- AWS Cloud Architecture  
-- DevOps Engineering  
-- Infrastructure Automation  
-- Monitoring & Logging  
-- Security Best Practices  
-
----
+- AWS Cloud Architecture
+- DevOps Engineering
+- Infrastructure Automation
+- Monitoring and Logging
+- Security Best Practices
+- GitHub Workflows
 
 ## About Me
 
-Cloud & DevOps Engineer focused on building scalable cloud infrastructure and automation.
-LinkedIn - https://www.linkedin.com/in/mkparucj
+I am building hands-on cloud and DevOps projects focused on scalable infrastructure, automation, and production readiness.
 
-Preparing for relocation-ready cloud engineering roles.
+My current focus is becoming relocation-ready for Cloud Support, Junior DevOps, and Cloud Administrator opportunities.
+
+## Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/mkparucj
